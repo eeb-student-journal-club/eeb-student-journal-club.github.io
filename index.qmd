@@ -9,4 +9,5 @@ Fridays 11:10am ESC 1014 and [on Zoom!](https://utoronto.zoom.us/j/85767150347)
 | Date | Leader | Topic |
 |------|--------|-------|
 | October 27 | Chris Carlson | [Cardenolides, toxicity, and the costs of sequestration in the coevolutionary interaction between monarchs and milkweeds](https://www.pnas.org/doi/abs/10.1073/pnas.2024463118) |
-| November 17 | Mete Yuksel | [Shifting mutational constraints in the SARS-CoV-2 receptor-binding domain during viral evolution](https://www.science.org/doi/full/10.1126/science.abo7896) |
+| November 24 | Chris Carlson | Practice committee meeting! |
+| TBD | Mete Yuksel | [Shifting mutational constraints in the SARS-CoV-2 receptor-binding domain during viral evolution](https://www.science.org/doi/full/10.1126/science.abo7896) |
