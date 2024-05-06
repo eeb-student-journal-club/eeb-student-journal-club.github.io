@@ -2,12 +2,33 @@
 
 This webpage hosts information about the UofT EEB student journal club and seminar! Students, postdocs, and faculty are welcome. We meet to discuss papers in ecology and evolution, and have students practice presentations on their research for upcoming conferences, committee meetings, etc.
 
-## Fall 2023
+## Winter 2024
 
-Fridays 11:10am ESC 1014 and [on Zoom!](https://utoronto.zoom.us/j/85767150347)
+Mondays 10:10am, ESC1014 and [on Zoom!](https://utoronto.zoom.us/j/85767150347)
 
 | Date | Leader | Topic |
 |------|--------|-------|
-| October 27 | Chris Carlson | [Cardenolides, toxicity, and the costs of sequestration in the coevolutionary interaction between monarchs and milkweeds](https://www.pnas.org/doi/abs/10.1073/pnas.2024463118) |
-| November 24 | Chris Carlson | Practice committee meeting! |
-| TBD | Mete Yuksel | [Shifting mutational constraints in the SARS-CoV-2 receptor-binding domain during viral evolution](https://www.science.org/doi/full/10.1126/science.abo7896) |
+| Jan 15 | Mete Yuksel | [Host-parasite interactions and the evolution of mutation rate](https://www.sciencedirect.com/science/article/abs/pii/S004058090900029X) |
+| Jan 22 | EEB Contract Action Team | CUPE 3902 Collective Bargaining Information Session |
+| Jan 22 | Dylan Kaufman| Practice committee meeting! |
+| Jan 29 | - | postponed to Feb 5! |
+| Feb 5 | - | postponed to Feb 12! |
+| Feb 12 | Chris Carlson | [The history of Coast Salish “woolly dogs” revealed by ancient genomics and Indigenous Knowledge](https://www.science.org/doi/10.1126/science.adi6549) |
+| Feb 19 | Else Mikkelsen | Why genomics is BAD! |
+| Feb 26 | Katie Monat | All about plastics & waste management in Toronto |
+| Mar 4 |  | Canceled due to CUPE 3902 Unit 1 Rally |
+| Mar 11 | - | Postponed due to illness! |
+| Mar 18 | Mete Yuksel | [Markets as drivers of selection for highly virulent poultry pathogens](https://www.nature.com/articles/s41467-024-44777-3) |
+| Apr 15 | Jenny Carpenter | Atwood practice! |
+
+
+## Fall 2023
+
+Fridays 11:10am, ESC 1014 and [on Zoom!](https://utoronto.zoom.us/j/85767150347)
+
+| Date | Leader | Topic |
+|------|--------|-------|
+| Oct 27 | Chris Carlson | [Cardenolides, toxicity, and the costs of sequestration in the coevolutionary interaction between monarchs and milkweeds](https://www.pnas.org/doi/abs/10.1073/pnas.2024463118) |
+| Nov 24 | Chris Carlson | Practice committee meeting! |
+| Dec 1 | Julia Boyle | Presentation on current and future research aims |
+| Dec 8 | Athmaja Viswanath | Presentation on gene expression in _Caenorhabditis_ |
